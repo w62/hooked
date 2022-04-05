@@ -7,4 +7,4 @@
 
 ![圖](images/295003.img)
 
-![原文] (http://clipart-library.com/image_gallery/295033.jpg)
+![原文](http://clipart-library.com/image_gallery/295033.jpg)
