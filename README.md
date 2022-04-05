@@ -5,6 +5,6 @@
 
 [另一部](001/000.md)
 
-![圖](https://github.com/w62/hooked/blob/main/images/295033.jpg)
+![圖](https://github.com/w62/hooked/blob/main/images/295033.jpg =300x)
 
-![原文](http://clipart-library.com/image_gallery/295033.jpg){ width=50% }
+![原文](http://clipart-library.com/image_gallery/295033.jpg =x200) 
