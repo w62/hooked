@@ -7,4 +7,4 @@
 
 <img src="https://github.com/w62/hooked/blob/main/images/295033.jpg" width="300">
 
-[原文](http://clipart-library.com/image_gallery/295033.jpg) 
+[原圖](http://clipart-library.com/image_gallery/295033.jpg) 
